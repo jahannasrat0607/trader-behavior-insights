@@ -33,4 +33,4 @@ Clone this repo
 
 Install requirements (if needed)
 
-Open EDA_Report.ipynb in Jupyter or Colab
+Open trader_behaviour.ipynb in Jupyter or Colab
