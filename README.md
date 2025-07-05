@@ -30,5 +30,7 @@ Key takeaways and recommendations for smarter trading strategies
 How to Run:
 
 Clone this repo
+
 Install requirements (if needed)
-Open trader_behaviour.ipynb in Jupyter or Colab
+
+Open EDA_Report.ipynb in Jupyter or Colab
